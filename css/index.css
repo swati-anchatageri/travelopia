@@ -124,7 +124,7 @@ body, html {
   }
   #sub-title {
     font-size: 0.8em;
-    transform: translate(-50%, -50%);
+    transform: translate(-45%, -50%);
   }
 
   .btn {
