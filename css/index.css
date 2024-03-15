@@ -1,0 +1,87 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  #navbar, footer {
+    height: 100px;
+    background-color: #0e0e0e;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  #content {
+    position: relative;
+    height: calc(100% - 200px);
+  }
+  
+  #navbar{
+    left: 100px;
+    text-align: start;
+  }
+
+  #cover-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  #overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  #title {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 2em;
+  }
+  #sub-title{
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1em;
+    color: #a9a9a9;
+  }
+  #heading{
+    font-family: "Sofia", sans-serif;
+    margin-left: 100px;
+    font-size: xx-large;
+  }
+  
+  .btn {
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: #ffffff;
+    opacity: 0.8;
+    color: #000000;
+    border: 2px solid #000000;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.2em;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+  }
+  
