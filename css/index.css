@@ -134,3 +134,29 @@ body, html {
   }
 
   }
+  @media only screen and (max-width:280px){
+    #heading{
+      font-family: "Sofia", sans-serif;
+      margin: 0;
+  }
+  #navbar{
+      text-align: center;
+  }
+  #title{
+      font-size: 1.5em; 
+      transform: translate(-25%, -50%);
+      left: 50%;
+
+  }
+  #sub-title {
+    font-size: 0.8em;
+    transform: translate(-25%, -50%);
+  }
+
+  .btn {
+    font-size: 1em;
+    padding: 5px 10px;
+    transform: translateX(-40%);
+  }
+
+  }
