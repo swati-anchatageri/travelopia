@@ -14,4 +14,12 @@
 ![picture 2](https://github.com/swati-anchatageri/travelopia/blob/main/image/ss2.png)
 
 # Screenshots for small screen sizes
+For screen size 375 
+![picture 3](https://github.com/swati-anchatageri/travelopia/blob/main/image/iphoneSe.png)
+<br>
+For Screen size 390
+![picture 4](https://github.com/swati-anchatageri/travelopia/blob/main/image/iphone12.png)
+<br>
+For screen size 280
+![picture 5](https://github.com/swati-anchatageri/travelopia/blob/main/image/fold.png) 
 
