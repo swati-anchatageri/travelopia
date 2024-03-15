@@ -50,7 +50,7 @@ body, html {
   }
   #sub-title{
     position: absolute;
-    top: 48%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 1em;
@@ -64,14 +64,14 @@ body, html {
   
   .btn {
     position: absolute;
-    top: 62%;
+    top: 60%;
     left: 50%;
     transform: translateX(-50%);
     padding: 10px 20px;
     background-color: #ffffff;
     opacity: 0.8;
     color: #000000;
-    border: 2px solid #000000;
+    border: none;
     cursor: pointer;
     font-weight: bold;
     font-size: 1.2em;
@@ -85,3 +85,27 @@ body, html {
     border: 2px solid #ffffff;
   }
   
+  @media only screen and (max-width: 600px) {
+    #heading{
+        font-family: "Sofia", sans-serif;
+        margin: 0;
+        font-size:large ;
+    }
+    #navbar{
+        text-align: center;
+    }
+    #title{
+        font-size: 1.5em; 
+        transform: translate(-50%, -65%);
+
+    }
+    #sub-title {
+      font-size: 0.8em;
+      transform: translate(-50%, -70%);
+    }
+  
+    .btn {
+      font-size: 1em;
+      padding: 5px 10px;
+    }
+  }
