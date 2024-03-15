@@ -18,8 +18,8 @@
 <br> Simple javascript code is used for alert message as "Hello, World!".
 
 ## Applying Media querry
-<br> -  @media Screen only (maxwidth: 600px) is used for responsive, here some of the css properties have been changed according to the screen size like font-size, text alignment and transform.
-<br> - and also media querry is applied for screen sizes below 408px and 280px 
+<br> -  @Media only screen and (max-width: 600px) is used for responsive, here some of the css properties have been changed according to the screen size like font-size, text alignment and transform.
+<br> - And also media querry is applied for screen sizes below 408px and 280px 
 
 # Screenshots
 
