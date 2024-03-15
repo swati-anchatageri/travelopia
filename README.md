@@ -1,6 +1,10 @@
 # Travelopia
 <br> The entire page was built using HTML CSS and Javascript
-# 
+
+ ## HTML 
+ HTML provides us to create structured documents by by denoting structural semantics for text such as headings, paragraphs, lists, links and others...
+ ## css
+ 
 <br> The header and footer is of 100px in any screen size
 <br> Used image tag for setting a background image, height, and width is set to 100% object-fit property is used to cover the space, and position is set to absolute as it is relative to the nearest ancestor.
 <br> The content which includes the image, title, and button is set to relative, and height is calculated using max height and substracted 200px because the header and footer height is fixed to 100px each.
