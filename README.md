@@ -9,3 +9,6 @@
 <br> simple javascript code is used for alert message.
 <br>
 # Screenshots
+
+![picture 1](https://github.com/swati-anchatageri/travelopia/blob/main/image/ss1.png)
+![picture 1](https://github.com/swati-anchatageri/travelopia/blob/main/image/ss2.png)
